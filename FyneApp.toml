@@ -1,7 +1,7 @@
 Website = "https://github.com/anhcraft/ytb-downloader"
 
 [Details]
-  Icon = "./assets/icon.png"
+  Icon = "./assets/ytb.png"
   Name = "YTB Downloader"
   ID = "dev.anhcraft.ytbdownloader"
   Version = "1.0.4"
